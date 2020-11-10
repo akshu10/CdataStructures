@@ -1,3 +1,3 @@
 # CdataStructures
 
-This contains dataStructures written using C.
+These files contain dataStructures implemented using C.
